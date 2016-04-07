@@ -1,0 +1,105 @@
+This is testing for fputs...
+This is testing for fputs...
+Timings(proc 0.000000)
+readData   0.000000
+ProcessData  0.000000
+ReduceResults  0.000000
+total  -2.000000
+
+
+This is testing for fputs...
+This is testing for fputs..1 
+Timings(proc 0.000000)
+readData   0.000686
+ProcessData  0.000323
+ReduceResults  0.000145
+total  0.001155
+
+
+Timings(proc 0)
+readData   0.000689
+ProcessData  0.001980
+ReduceResults  0.000212
+total  0.002881
+
+
+Timings(proc 0)
+readData   0.000521
+ProcessData  0.000200
+ReduceResults  0.000067
+total  0.000789
+
+
+Timings(proc 0)
+readData   0.000753
+ProcessData  0.000271
+ReduceResults  0.000075
+total  0.001099
+
+
+Timings(proc 0)
+readData   0.000460
+ProcessData  0.000207
+ReduceResults  0.000056
+total  0.000723
+
+
+total  ÿt$ÿt$è…şÿÿƒÄÃÌÌÌÌÌU‹ìƒìÿuMğèš~ÿÿ¶E‹Mğ‹‰È
+
+
+Timings(proc 0)
+readData   0.000714
+ProcessData  0.000381
+ReduceResults  0.000084
+total  0.001179
+
+
+total timing  
+readData   0.000714
+ProcessData  0.000381
+ReduceResults  0.000084
+total  0.001179
+
+
+Timings(proc 0)
+readData   0.000486
+ProcessData  0.000335
+ReduceResults  0.000099
+total  0.000920
+
+
+total timing  
+readData   0.000486
+ProcessData  0.000335
+ReduceResults  0.000099
+total  0.000920
+
+
+Timings(proc 0)
+readData   0.000489
+ProcessData  0.000275
+ReduceResults  0.000012
+total  0.000775
+
+
+total timing  
+readData   0.000489
+ProcessData  0.000275
+ReduceResults  0.000012
+total  0.000775
+
+
+Timings(proc 0)
+readData   0.000702
+ProcessData  0.000340
+ReduceResults  0.000026
+total  0.001068
+
+
+total timing  
+readData   0.000702
+ProcessData  0.000340
+ReduceResults  0.000026
+total  0.001068
+
+
